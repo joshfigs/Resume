@@ -1,2 +1,2 @@
 # Resume
-My up-to-date resume
+My current resume
